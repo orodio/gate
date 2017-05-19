@@ -1,6 +1,6 @@
 {
   "name": "@orodio/gate",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "orodio does a lock",
   "main": "lib/index.js",
   "repository": "https://github.com/orodio/gate",
