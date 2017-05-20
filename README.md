@@ -1,11 +1,11 @@
-# `@orodio/params`
+# `@orodio/gate`
 
 [![Build Status](https://travis-ci.org/orodio/gate.svg?branch=master)](https://travis-ci.org/orodio/gate)
 
 ### Install
 
 ```
-yarn add @orodio/params
+yarn add @orodio/gate
 ```
 
 ### Use
